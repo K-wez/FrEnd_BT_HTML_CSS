@@ -6,6 +6,7 @@ Notes and projects from Modern HTML and CSS Course on [Udemy](https://www.udemy.
 
 | id  | Name / Location                 |      Demo       |
 | :-: | :------------------------------ | :-------------: |
+|  1  | [Hotel Website](./01_Hotel)  | [Live Demo\*]() |
 |  2  | [Edge Ledger](./02_EdgeLedger)  | [Live Demo\*]() |
 |  3  | [News Grid](./03_NewsGrid)      | [Live Demo\*]() |
 |  4  | [Portfolio](./04_Portfolio)     | [Live Demo\*]() |
