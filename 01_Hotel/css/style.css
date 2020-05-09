@@ -50,9 +50,9 @@ p {
   cursor: pointer;
 }
 
-.btn:hover{
-    background: #f7c08a;
-    color: #333;
+.btn:hover {
+  background: #f7c08a;
+  color: #333;
 }
 
 .btn-light {
@@ -78,6 +78,15 @@ p {
 .clr {
   clear: both;
 }
+
+.l-heading {
+  font-size: 40px;
+}
+
+/* Padding */
+.py-1 { padding: 10px 0; }
+.py-2 { padding: 20px 0; }
+.py-3 { padding: 30px 0; }
 
 /* Navbar */
 #navbar {
