@@ -16,6 +16,7 @@ Notes and projects from Modern HTML and CSS Course on [Udemy](https://www.udemy.
 
 
 1. [Basic Parallax Website With HTML & CSS](https://www.youtube.com/watch?v=JttTcnidSdQ&t=68s): In this video we will be building a very basic implementation of a parallax website with fixed scrolling using HTML and CSS. [My files](./YouTube/parallaxwebsite)
+1. [Responsive HTML & CSS Side Menu From Scratch](https://www.youtube.com/watch?v=wpGNFGqNfdU): In this video we will build a responsive collapsible side menu using HTML5, CSS3 and just a bit of JavaScript. We will not be using any 3rd party frameworks or libraries, everything is from scratch [My files](./YouTube/sidemenu)
 1. [Full Screen Video Background - HTML & CSS](https://www.youtube.com/watch?v=Gx_7GQtSdpc&t=94s): In this project we will create a full screen video background for a landing page using HTML & CSS
 1. [Social Network Theme With Sass - Part 1](https://www.youtube.com/watch?v=IFM9hbapeA0) : In this part we will setup Sass, create the landing page with navigation, image overlay, Sass variables, mixins and functions
 1. [Social Network Theme With Sass - Part 2](https://www.youtube.com/watch?v=xoxJxifNWPE) : In this part we will create the login and register pages with more utility classes as well as generate some margin and padding classes using Sass logic
