@@ -4,15 +4,13 @@ Notes and projects from Modern HTML and CSS Course on [Udemy](https://www.udemy.
 
 ## Responsive Web design projects
 
-| id  | Name / Location                                         |      Demo       |
-| :-: | :------------------------------------------------------ | :-------------: |
-|  1  | [Hotel Website](./01_Hotel)                             | [Live Demo\*]() |
-|  2  | [Edge Ledger](./02_EdgeLedger)                          | [Live Demo\*]() |
-|  3  | [News Grid](./03_NewsGrid)                              | [Live Demo\*]() |
-|  4  | [Portfolio](./04_Portfolio)                             | [Live Demo\*]() |
-|  5  | [Mini Projects](./MiniProjects)                         |                 |
-|  6  | [Test JS](../vanillawebprojects)                        |                 |
-|  6  | [Test JS2](https://github.com/K-wez/vanillawebprojects) |                 |
+| id  | Name / Location                 |      Demo       |
+| :-: | :------------------------------ | :-------------: |
+|  1  | [Hotel Website](./01_Hotel)     | [Live Demo\*]() |
+|  2  | [Edge Ledger](./02_EdgeLedger)  | [Live Demo\*]() |
+|  3  | [News Grid](./03_NewsGrid)      | [Live Demo\*]() |
+|  4  | [Portfolio](./04_Portfolio)     | [Live Demo\*]() |
+|  5  | [Mini Projects](./MiniProjects) |                 |
 
 ## Brad Traversy Fun Project from [YouTube](./YouTube) (HTML/CSS)
 
