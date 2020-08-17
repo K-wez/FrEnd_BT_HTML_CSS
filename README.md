@@ -4,16 +4,17 @@ Notes and projects from Modern HTML and CSS Course on [Udemy](https://www.udemy.
 
 ## Responsive Web design projects
 
-| id  | Name / Location                 |      Demo       |
-| :-: | :------------------------------ | :-------------: |
-|  1  | [Hotel Website](./01_Hotel)  | [Live Demo\*]() |
-|  2  | [Edge Ledger](./02_EdgeLedger)  | [Live Demo\*]() |
-|  3  | [News Grid](./03_NewsGrid)      | [Live Demo\*]() |
-|  4  | [Portfolio](./04_Portfolio)     | [Live Demo\*]() |
-|  5  | [Mini Projects](./MiniProjects) |                 |
+| id  | Name / Location                                         |      Demo       |
+| :-: | :------------------------------------------------------ | :-------------: |
+|  1  | [Hotel Website](./01_Hotel)                             | [Live Demo\*]() |
+|  2  | [Edge Ledger](./02_EdgeLedger)                          | [Live Demo\*]() |
+|  3  | [News Grid](./03_NewsGrid)                              | [Live Demo\*]() |
+|  4  | [Portfolio](./04_Portfolio)                             | [Live Demo\*]() |
+|  5  | [Mini Projects](./MiniProjects)                         |                 |
+|  6  | [Test JS](../vanillawebprojects)                        |                 |
+|  6  | [Test JS2](https://github.com/K-wez/vanillawebprojects) |                 |
 
 ## Brad Traversy Fun Project from [YouTube](./YouTube) (HTML/CSS)
-
 
 1. [Basic Parallax Website With HTML & CSS](https://www.youtube.com/watch?v=JttTcnidSdQ&t=68s): In this video we will be building a very basic implementation of a parallax website with fixed scrolling using HTML and CSS. [My files](./YouTube/parallaxwebsite)
 1. [Responsive HTML & CSS Side Menu From Scratch](https://www.youtube.com/watch?v=wpGNFGqNfdU): In this video we will build a responsive collapsible side menu using HTML5, CSS3 and just a bit of JavaScript. We will not be using any 3rd party frameworks or libraries, everything is from scratch [My files](./YouTube/sidemenu)
